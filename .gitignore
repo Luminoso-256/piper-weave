@@ -1,0 +1,4 @@
+weavesrv.exe
+data/data.db
+*.db
+*.journal
